@@ -1,0 +1,18 @@
+{
+  "model": "claude-haiku-4-5",
+  "specialized_model": "distilbert/distilbert-base-uncased-finetuned-sst-2-english",
+  "data": {
+    "reviews_csv": "data/reviews_messy.csv",
+    "docs_folder": "data/docs"
+  },
+  "output": {
+    "structured_reviews": "output/reviews_structured.json",
+    "log_file": "output/pipeline.log"
+  },
+  "rag": {
+    "chunk_size": 500,
+    "chunk_overlap": 50,
+    "db_path": "chroma_db",
+    "top_k": 3
+  }
+}

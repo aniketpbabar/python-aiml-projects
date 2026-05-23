@@ -1,0 +1,30 @@
+# Secrets
+.env
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Generated output
+output/*.json
+output/*.log
+chroma_db/
+
+# IDE / editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
