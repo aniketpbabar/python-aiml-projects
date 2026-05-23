@@ -2,8 +2,6 @@
 
 Small Python projects that show what an AI app looks like inside. Each one is short, runs end to end, and maps to real Python topics you need to learn for AI.
 
-This is the companion repo for the **Python for AI** video on the [Data With Baraa](https://www.youtube.com/@DataWithBaraa) YouTube channel.
-
 ## What's inside
 
 | # | Project | What it does |
@@ -70,13 +68,3 @@ The flow is the same: send messages, get a response back. Pick whatever model fi
 - `data/` sample data (messy reviews + a few docs for the RAG example)
 - `config.json` model name and file paths
 - `.env.example` template for your API key
-
-## Links
-
-- Channel: [youtube.com/@DataWithBaraa](https://www.youtube.com/@DataWithBaraa)
-- Website: [datawithbaraa.com](https://www.datawithbaraa.com/)
-- Newsletter: [blog.datawithbaraa.com](https://blog.datawithbaraa.com/)
-
-## License
-
-MIT. Use the code freely in your own projects.
