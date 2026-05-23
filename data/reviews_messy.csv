@@ -1,0 +1,13 @@
+id,product,review_text,rating
+1,Data Pipeline Pro,"works great but the docs are a mess, took me 3 days to set it up",4
+2,data pipeline pro,TERRIBLE support never replied to any of my tickets,1
+3,QueryBuilder,,
+4,querybuilder,"pretty good. does what it says. wish it had a dark mode tho",four
+5,Data Pipeline Pro,"crashed twice this week and i lost my work, super frustrating",2
+6,StreamSync,love it!! best tool ive used for kafka stuff,5
+7,streamsync,"its ok i guess. nothing special. price is a bit high for what you get",3
+8,QueryBuilder,"the new update broke everything pls fix asap!!!",1
+9,,random text not really a review lol,
+10,Data Pipeline Pro,"solid product, been using it for 6 months, no major issues, would recommend",5
+11,StreamSync,"setup was painful, the error messages are useless, but once running its fine",3
+12,querybuilder,fast and clean. exactly what i needed for ad hoc queries,5
